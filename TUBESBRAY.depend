@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1523962720 source:d:\telkom university\c++iseng\tubesbray\parent1.cpp
+	"parent1.h"
+
+1524305690 d:\telkom university\c++iseng\tubesbray\parent1.h
+	<iostream>
+
+1523962702 source:d:\telkom university\c++iseng\tubesbray\relasi.cpp
+	"relasi.h"
+
+1524305586 d:\telkom university\c++iseng\tubesbray\relasi.h
+	"parent1.h"
+	"parent2.h"
+	<iostream>
+
+1524305586 d:\telkom university\c++iseng\tubesbray\parent2.h
+	<iostream>
+
+1524124141 source:d:\telkom university\c++iseng\tubesbray\main.cpp
+	<iostream>
+	"parent1.h"
+	"parent2.h"
+	"relasi.h"
+
+1525032649 source:c:\users\gilang adhi wibowo\desktop\main.cpp
+	<iostream>
+	"parent1.h"
+	"parent2.h"
+	"relasi.h"
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+
+1525032649 c:\users\gilang adhi wibowo\desktop\parent1.h
+	<iostream>
+	<iostream>
+	<string>
+	<windows.h>
+
+1525026406 c:\users\gilang adhi wibowo\desktop\parent2.h
+	<iostream>
+	<iostream>
+	<string>
+	<windows.h>
+
+1525026406 c:\users\gilang adhi wibowo\desktop\relasi.h
+	"parent1.h"
+	"parent2.h"
+	<iostream>
+	<windows.h>
+
+1525034525 source:c:\users\gilang adhi wibowo\desktop\parent1.cpp
+	"parent1.h"
+
+1525029471 source:c:\users\gilang adhi wibowo\desktop\parent2.cpp
+	"parent2.h"
+
+1525003948 source:c:\users\gilang adhi wibowo\desktop\relasi1.cpp
+	"relasi.h"
+
+1525033435 source:c:\users\gilang adhi wibowo\desktop\menu.cpp
+	"parent1.h"
+	"parent2.h"
+	"relasi.h"
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+
+1525047396 source:c:\users\gilang adhi wibowo\desktop\ \main.cpp
+	<iostream>
+	"parent1.h"
+	"parent2.h"
+	"relasi.h"
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+
+1525032649 c:\users\gilang adhi wibowo\desktop\ \parent1.h
+	<iostream>
+	<iostream>
+	<string>
+	<windows.h>
+
+1525036435 c:\users\gilang adhi wibowo\desktop\ \parent2.h
+	<iostream>
+	<iostream>
+	<string>
+	<windows.h>
+
+1525039556 c:\users\gilang adhi wibowo\desktop\ \relasi.h
+	"parent1.h"
+	"parent2.h"
+	<iostream>
+	<windows.h>
+
+1525047670 source:c:\users\gilang adhi wibowo\desktop\ \menu.cpp
+	"parent1.h"
+	"parent2.h"
+	"relasi.h"
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+
+1525046910 source:c:\users\gilang adhi wibowo\desktop\ \parent1.cpp
+	"parent1.h"
+
+1525046910 source:c:\users\gilang adhi wibowo\desktop\ \parent2.cpp
+	"parent2.h"
+
+1525003948 source:c:\users\gilang adhi wibowo\desktop\ \relasi1.cpp
+	"relasi.h"
+
+1525244991 source:c:\users\gilang adhi wibowo\desktop\tubes\main.cpp
+	<iostream>
+	"parent1.h"
+	"parent2.h"
+	"relasi.h"
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+
+1525193061 c:\users\gilang adhi wibowo\desktop\tubes\parent1.h
+	<iostream>
+	<iostream>
+	<string>
+	<windows.h>
+
+1525193062 c:\users\gilang adhi wibowo\desktop\tubes\parent2.h
+	<iostream>
+	<iostream>
+	<string>
+	<windows.h>
+
+1525197803 c:\users\gilang adhi wibowo\desktop\tubes\relasi.h
+	"parent1.h"
+	"parent2.h"
+	<iostream>
+	<windows.h>
+
+1525249793 source:c:\users\gilang adhi wibowo\desktop\tubes\menu.cpp
+	"parent1.h"
+	"parent2.h"
+	"relasi.h"
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+
+1525194637 source:c:\users\gilang adhi wibowo\desktop\tubes\parent1.cpp
+	"parent1.h"
+
+1525194637 source:c:\users\gilang adhi wibowo\desktop\tubes\parent2.cpp
+	"parent2.h"
+
+1525199866 source:c:\users\gilang adhi wibowo\desktop\tubes\relasi1.cpp
+	"relasi.h"
+
